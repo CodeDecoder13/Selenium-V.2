@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Test-101\\source\\repos\\CodeDecoder13\\Selenium-V.2\\ProjectSelenium\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9143877-981B-4472-9429-9A9BF51868CC}|ProjectSelenium.csproj|c:\\users\\test-101\\source\\repos\\codedecoder13\\selenium-v.2\\projectselenium\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9143877-981B-4472-9429-9A9BF51868CC}|ProjectSelenium.csproj|solutionrelative:unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9143877-981B-4472-9429-9A9BF51868CC}|ProjectSelenium.csproj|c:\\users\\test-101\\source\\repos\\codedecoder13\\selenium-v.2\\projectselenium\\basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9143877-981B-4472-9429-9A9BF51868CC}|ProjectSelenium.csproj|solutionrelative:basetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9143877-981B-4472-9429-9A9BF51868CC}|ProjectSelenium.csproj|c:\\users\\test-101\\source\\repos\\codedecoder13\\selenium-v.2\\projectselenium\\extentreportshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9143877-981B-4472-9429-9A9BF51868CC}|ProjectSelenium.csproj|solutionrelative:extentreportshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9143877-981B-4472-9429-9A9BF51868CC}|ProjectSelenium.csproj|c:\\users\\test-101\\source\\repos\\codedecoder13\\selenium-v.2\\projectselenium\\testing\\perfomancetesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9143877-981B-4472-9429-9A9BF51868CC}|ProjectSelenium.csproj|solutionrelative:testing\\perfomancetesting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9143877-981B-4472-9429-9A9BF51868CC}|ProjectSelenium.csproj|c:\\users\\test-101\\source\\repos\\codedecoder13\\selenium-v.2\\projectselenium\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9143877-981B-4472-9429-9A9BF51868CC}|ProjectSelenium.csproj|solutionrelative:main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9143877-981B-4472-9429-9A9BF51868CC}|ProjectSelenium.csproj|c:\\users\\test-101\\source\\repos\\codedecoder13\\selenium-v.2\\projectselenium\\projectselenium.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F9143877-981B-4472-9429-9A9BF51868CC}|ProjectSelenium.csproj|solutionrelative:projectselenium.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,16 +30,68 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PerfomanceTesting.cs",
+              "DocumentMoniker": "C:\\Users\\Test-101\\source\\repos\\CodeDecoder13\\Selenium-V.2\\ProjectSelenium\\Testing\\PerfomanceTesting.cs",
+              "RelativeDocumentMoniker": "Testing\\PerfomanceTesting.cs",
+              "ToolTip": "C:\\Users\\Test-101\\source\\repos\\CodeDecoder13\\Selenium-V.2\\ProjectSelenium\\Testing\\PerfomanceTesting.cs",
+              "RelativeToolTip": "Testing\\PerfomanceTesting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T14:30:18.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectSelenium",
+              "DocumentMoniker": "C:\\Users\\Test-101\\source\\repos\\CodeDecoder13\\Selenium-V.2\\ProjectSelenium\\ProjectSelenium.csproj",
+              "RelativeDocumentMoniker": "ProjectSelenium.csproj",
+              "ToolTip": "C:\\Users\\Test-101\\source\\repos\\CodeDecoder13\\Selenium-V.2\\ProjectSelenium\\ProjectSelenium.csproj",
+              "RelativeToolTip": "ProjectSelenium.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-01T14:14:46.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ExtentReportsHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Test-101\\source\\repos\\CodeDecoder13\\Selenium-V.2\\ProjectSelenium\\ExtentReportsHelper.cs",
+              "RelativeDocumentMoniker": "ExtentReportsHelper.cs",
+              "ToolTip": "C:\\Users\\Test-101\\source\\repos\\CodeDecoder13\\Selenium-V.2\\ProjectSelenium\\ExtentReportsHelper.cs",
+              "RelativeToolTip": "ExtentReportsHelper.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwCUAAACXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T14:15:21.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\Test-101\\source\\repos\\CodeDecoder13\\Selenium-V.2\\ProjectSelenium\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "UnitTest1.cs",
-              "ToolTip": "C:\\Users\\Test-101\\source\\repos\\CodeDecoder13\\Selenium-V.2\\ProjectSelenium\\UnitTest1.cs",
-              "RelativeToolTip": "UnitTest1.cs",
+              "Title": "BaseTest.cs",
+              "DocumentMoniker": "C:\\Users\\Test-101\\source\\repos\\CodeDecoder13\\Selenium-V.2\\ProjectSelenium\\BaseTest.cs",
+              "RelativeDocumentMoniker": "BaseTest.cs",
+              "ToolTip": "C:\\Users\\Test-101\\source\\repos\\CodeDecoder13\\Selenium-V.2\\ProjectSelenium\\BaseTest.cs",
+              "RelativeToolTip": "BaseTest.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvxkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T14:14:58.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\Test-101\\source\\repos\\CodeDecoder13\\Selenium-V.2\\ProjectSelenium\\Main.cs",
+              "RelativeDocumentMoniker": "Main.cs",
+              "ToolTip": "C:\\Users\\Test-101\\source\\repos\\CodeDecoder13\\Selenium-V.2\\ProjectSelenium\\Main.cs",
+              "RelativeToolTip": "Main.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-01T14:10:41.311Z",
