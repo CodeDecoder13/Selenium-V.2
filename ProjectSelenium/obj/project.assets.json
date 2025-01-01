@@ -2206,11 +2206,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Test-101\\source\\repos\\CodeDecoder13\\Selenium-V.2\\ProjectSelenium\\ProjectSelenium.csproj",
+      "projectUniqueName": "C:\\Users\\Test-101\\Documents\\GitHub\\Selenium-V.2\\ProjectSelenium\\ProjectSelenium.csproj",
       "projectName": "ProjectSelenium",
-      "projectPath": "C:\\Users\\Test-101\\source\\repos\\CodeDecoder13\\Selenium-V.2\\ProjectSelenium\\ProjectSelenium.csproj",
+      "projectPath": "C:\\Users\\Test-101\\Documents\\GitHub\\Selenium-V.2\\ProjectSelenium\\ProjectSelenium.csproj",
       "packagesPath": "C:\\Users\\Test-101\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Test-101\\source\\repos\\CodeDecoder13\\Selenium-V.2\\ProjectSelenium\\obj\\",
+      "outputPath": "C:\\Users\\Test-101\\Documents\\GitHub\\Selenium-V.2\\ProjectSelenium\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
